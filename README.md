@@ -1,21 +1,39 @@
-Tic Tac Toe AI 🎮🤖
-An unbeatable Tic Tac Toe AI built using the Minimax Algorithm in Python.
+# Image Classifier 🧠🖼️
+An AI-powered Image Classification web app built using PyTorch, ResNet18, and Gradio.
 
-🚀 Check Out the Project
-🔗 https://tic-tac-toe-ai9.streamlit.app/
+## 🚀 Check Out the Project
+🔗 https://huggingface.co/spaces/harry598/image-classifier
 
-✨ Features
-Player vs AI gameplay
+## ✨ Features
+- Upload any image for classification
+- Predicts top image categories with confidence scores
+- Uses pretrained ResNet18 deep learning model
+- Interactive Gradio-based web interface
+- Deployed online using Hugging Face Spaces
 
-AI uses Minimax for optimal moves
+## 🛠️ Tech Stack
+- Python
+- PyTorch
+- Torchvision
+- Gradio
+- Hugging Face Spaces
 
-Detects wins, losses, and draws
+## 📌 How It Works
+- The uploaded image is preprocessed and resized
+- ResNet18 extracts image features using deep learning
+- The model predicts the most likely image classes
+- Results are displayed with confidence percentages
 
-Simple and beginner-friendly project
+## 📷 Example Predictions
+- Egyptian cat
+- Tiger cat
+- Tabby
 
-Can be extended into a web app or Streamlit app
+## 🎯 Future Improvements
+- Train a custom dataset
+- Add more advanced CNN models
+- Improve UI design
+- Add drag-and-drop multiple image support
 
-🛠️ Tech Stack
-Python
-
-Minimax Algorithm
+## 👨‍💻 Author
+Harshit
