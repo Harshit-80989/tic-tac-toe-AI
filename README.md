@@ -1,12 +1,10 @@
 Tic Tac Toe AI 🎮🤖
 An unbeatable Tic Tac Toe AI built using the Minimax Algorithm in Python.
 
-Check Out the Project Working Link : 
+🚀 Check Out the Project
+🔗 https://tic-tac-toe-ai9.streamlit.app/
 
-https://tic-tac-toe-ai9.streamlit.app/
-
-Features:
-
+✨ Features
 Player vs AI gameplay
 
 AI uses Minimax for optimal moves
@@ -17,9 +15,7 @@ Simple and beginner-friendly project
 
 Can be extended into a web app or Streamlit app
 
-Tech Stack:
-
+🛠️ Tech Stack
 Python
 
 Minimax Algorithm
-
